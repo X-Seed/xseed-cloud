@@ -1,0 +1,15 @@
+[submodule "android-client"]
+	path = android-client
+	url = ./android-client
+[submodule "controlServer"]
+	path = controlServer
+	url = ./controlServer
+[submodule "flutter_app"]
+	path = flutter_app
+	url = ./flutter_app
+[submodule "guest-agent"]
+	path = guest-agent
+	url = ./guest-agent
+[submodule "vmconfigs"]
+	path = vmconfigs
+	url = ./vmconfigs
